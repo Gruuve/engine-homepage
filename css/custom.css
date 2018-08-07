@@ -1,4 +1,10 @@
 .temp {
-    font-family: 'Francois One', sans-serif;
-    font-size: 50px;
+    /*font-family: 'Francois One', sans-serif;*/
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+
+.subtag {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
 }
