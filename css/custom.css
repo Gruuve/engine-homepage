@@ -8,3 +8,8 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 45px;
 }
+
+body {
+    background: url(file:///home/subhajit/Desktop/dev/GRUUVE/engine-homepage/backimg.png);
+    background-repeat: no-repeat; /*Prevent showing multiple background images*/
+ }
