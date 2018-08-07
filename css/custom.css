@@ -10,6 +10,6 @@
 }
 
 body {
-    background: url(file:///home/subhajit/Desktop/dev/GRUUVE/engine-homepage/backimg.png);
+    background: url("https://raw.githubusercontent.com/Gruuve/engine-homepage/master/images/backimg.png");
     background-repeat: no-repeat; /*Prevent showing multiple background images*/
  }
