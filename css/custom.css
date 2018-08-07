@@ -11,8 +11,8 @@
 
 body {
     background: url("https://raw.githubusercontent.com/Gruuve/engine-homepage/master/images/backimg.png");
-    height: 100%; 
-    width: 100%;
+    background-position: absolute; 
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
  }
