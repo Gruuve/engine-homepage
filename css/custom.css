@@ -10,7 +10,7 @@
 }
 
 body {
-    background: url("https://raw.githubusercontent.com/Gruuve/engine-homepage/master/images/backimg.png");
+    background: url("https://raw.githubusercontent.com/Gruuve/engine-homepage/master/images/backimg1.png");
     background-position: absolute; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,13 +25,14 @@ body {
   }
   .card1 {
     width:25em;
-    min-height:22.5em;
+    height: 14em;
     background: #fff;
     margin:2em auto;
     border-radius: .2em;
     padding-top:1em;
     padding-left: 1em;
     padding-right:1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
   .city1 {
     font-family: Roboto;
